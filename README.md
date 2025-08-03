@@ -23,7 +23,24 @@ Tobacco consumption is a major public health concern. This report aims to:
 - How consumption differs between genders.
 - Temporal shifts in tobacco consumption patterns.
 
+data modeling
 
+<img width="1203" height="740" alt="image" src="https://github.com/user-attachments/assets/6779c0e5-fd66-41c1-9d94-c701938c0862" />
+
+Smoking in USA
+
+<img width="1318" height="737" alt="image" src="https://github.com/user-attachments/assets/dc70fee7-1417-48ce-9025-80aba3f8738b" />
+
+World Wide
+
+<img width="1296" height="736" alt="image" src="https://github.com/user-attachments/assets/7167f2ad-8855-4da1-8a56-62333a6c6358" />
+
+Export & import for USA
+<img width="1312" height="726" alt="image" src="https://github.com/user-attachments/assets/751f8e4b-888a-459e-a67d-f5c56bba615f" />
+
+Activity of Cessation
+
+<img width="1272" height="735" alt="image" src="https://github.com/user-attachments/assets/7ca4fed3-0703-4c13-9120-4d8b64ec7f52" />
 
 ## 🔚 Conclusion
 
